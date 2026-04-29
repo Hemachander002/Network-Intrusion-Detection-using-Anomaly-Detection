@@ -1,3 +1,5 @@
+(Enhanced version of this project will be uploaded within the first week of May, that includes model tracking , deployment and monitoring . im planning to transform this mini one into an end to end ML project Stay tuned for updates)
+
 With the increasing volume of network traffic, detecting malicious activities (intrusions, attacks) is critical for maintaining system security,Traditional rule-based systems struggle 
 to detect unknown or evolving attack patterns.This project aims to build an anomaly detection system to identify suspicious network traffic using machine learning.
 The problem is treated as an anomaly detection task, where:
